@@ -10,15 +10,7 @@
 
 ## Reader workflow
 
-Most readers follow a stable sequence:
-
-1. Is this relevant to me?
-2. What is new here?
-3. Do I trust it?
-4. Can I reuse it?
-5. What does it mean, and where are the boundaries?
-
-Polishing should help the paper answer these questions in this order.
+See `../../../_shared/core/reader-workflow.md` (loaded via manifest `always_load`) for the 5-step reader question sequence. Polishing should help the paper answer those questions in order.
 
 ## Protect the core argument
 

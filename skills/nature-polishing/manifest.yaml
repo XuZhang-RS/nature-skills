@@ -5,9 +5,13 @@ description: >
   decide which fragments to load for a given polishing request.
 
 always_load:
+  # Shared layer — common to nature-polishing and nature-writing
+  - ../_shared/core/reader-workflow.md
+  - ../_shared/core/paper-type-taxonomy.md
+  - ../_shared/core/ethics.md
+  # Skill-local core
   - static/core/stance.md
   - static/core/failure-modes.md
-  - static/core/ethics.md
   - static/core/output-format.md
 
 axes:

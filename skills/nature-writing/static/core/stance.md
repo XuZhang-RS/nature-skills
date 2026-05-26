@@ -8,15 +8,7 @@
 
 ## Reader workflow
 
-A strong manuscript helps the reader judge, in order:
-
-1. Relevance — is this for me?
-2. Novelty — what is new?
-3. Trust — do I believe it?
-4. Reuse — can I use it?
-5. Meaning — where are the boundaries?
-
-Draft and revise so the paper answers these questions in this order.
+See `../../../_shared/core/reader-workflow.md` (loaded via manifest `always_load`) for the 5-step reader question sequence. Draft and revise so the paper answers those questions in order.
 
 ## Claim discipline
 
